@@ -33,7 +33,7 @@
 - All files are interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 - A README.md file at the root of the repo, containing a description of the repository
 - A README.md file, at the root of the folder of this project, is mandatory
-- Coding Style
+- Coding Style;
   - Pycodestyle (version 2.8.*)
   
 ### Shell Scripts
@@ -45,12 +45,13 @@
   
 ### C Scripts
  - Allowed editors: `vi`, `vim`, `emacs`.
- - Compilation
+ - Compilation;
    - `Ubuntu 20.04 LTS using gcc`
    - using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
- - Coding Style
+ - Coding Style;
    - **Betty style**, using `betty-style.pl` and `betty-doc.pl`
  - No more than 5 functions per file.
  
 ## Credits
-> Collaborators are acknowledged within the repository.
+- [Oluwatomisin Isogun](https://github.com/TosinISOGUN)
+> Other collaborators are acknowledged within the repository.
