@@ -23,4 +23,4 @@ At ALX Holberton School, we learn by doing. We have projects everyday that we ha
 
 ## Credits
 - [Oluwatomisin Isogun](https://github.com/TosinISOGUN)
-> Other collaborators are acknowledged within each project
+> Other collaborators are acknowledged within each project.
