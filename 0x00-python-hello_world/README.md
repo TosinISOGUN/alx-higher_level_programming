@@ -49,7 +49,7 @@
    - `Ubuntu 20.04 LTS using gcc`
    - using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
  - Coding Style
-   - **Betty style**, sing `betty-style.pl` and `betty-doc.pl`
+   - **Betty style**, using `betty-style.pl` and `betty-doc.pl`
  - No more than 5 functions per file.
  
 ## Credits
