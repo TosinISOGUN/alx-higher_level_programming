@@ -1,1 +1,26 @@
-New readme
+# ALX HIGH LEVEL PROGRAMMING
+<p align="center">
+<img src="https://camo.githubusercontent.com/a70c1748550c0ff2d4917a08610a1a89cd782edc00f91bedd4c50f4d7997b6a6/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f667931304a4964425267675a3668346e774e546258764461615770744c6564663279593862444c437671357253636b5972636b304a31563657737a6b5537376d74304a75765245437154577341504b5254455951704d3944476a413974574d6a6f5956653d77323735" width="" height="" />
+</p>
+
+## Getting started with high-level programminging in Python.
+<p align="center">
+<img src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500" height="200" />
+</p>
+
+## Synopsis
+A high-level language is any programming language that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
+
+A high-level language has a higher level of abstraction from the computer, and focuses more on the programming logic rather than the underlying hardware components such as memory addressing and register utilization.
+
+## Description
+At ALX Holberton School, we learn by doing. We have projects everyday that we have to push on GitHub in order for an automatic review to be done. This repository contains directories each corresponding to a high-level language project. These projects are part of the ALX Holberton School 1 year curriculum. In these projects, we cover everything from the basics of `Python` and `Javascript` (`Node`), as well as `SQL` (with `MySQL`) to more advanced topics.
+
+## Table of Contents
+| **Directories** | **Description**|
+| --- | --- |
+| [0x00. Python - Hello, World](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x00-python-hello_world) | 	Introduction to Python programming. |
+
+## Credits
+- [Oluwatomisin Isogun](https://github.com/TosinISOGUN)
+> Other collaborators are acknowledged within each project
