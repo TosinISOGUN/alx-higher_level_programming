@@ -20,7 +20,7 @@
 | [8-concat_edges.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/8-concat_edges.py)	| Python script that prints "object-oriented programming with Python", followed by a new line. |
 | [9-easter_egg.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/9-easter_egg.py)	| Python script that prints “The Zen of Python”, by TimPeters, followed by a new line. |
 | [10-check_cycle.c](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/10-check_cycle.c)	| C program that checks if a singly linked list has a cycle in it. |
-| [lists.h](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/list.h)	| header file for the C program. |
+| [lists.h](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/lists.h)	| header file for the C program. |
 | [100-write.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/100-write.py)	| Python script that prints a string with the function write from the sys module. |
 | [101-compile](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)	| Shell script that compiles a Python script file. |
 | [102-magic_calculation.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)	| Python function that replicates what a given Python bytecode does. |
