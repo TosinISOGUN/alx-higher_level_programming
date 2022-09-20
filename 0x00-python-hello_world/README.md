@@ -20,7 +20,7 @@
 | [8-concat_edges.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/8-concat_edges.py)	| Python script that prints "object-oriented programming with Python", followed by a new line. |
 | [9-easter_egg.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/9-easter_egg.py)	| Python script that prints “The Zen of Python”, by TimPeters, followed by a new line. |
 | [10-check_cycle.c](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/10-check_cycle.c)	| C program that checks if a singly linked list has a cycle in it. |
-| [lists.h](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/list.h)	| header file for the C program. |
+| [lists.h](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/lists.h)	| header file for the C program. |
 | [100-write.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/100-write.py)	| Python script that prints a string with the function write from the sys module. |
 | [101-compile](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)	| Shell script that compiles a Python script file. |
 | [102-magic_calculation.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)	| Python function that replicates what a given Python bytecode does. |
@@ -33,7 +33,7 @@
 - All files are interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 - A README.md file at the root of the repo, containing a description of the repository
 - A README.md file, at the root of the folder of this project, is mandatory
-- Coding Style
+- Coding Style;
   - Pycodestyle (version 2.8.*)
   
 ### Shell Scripts
@@ -45,12 +45,13 @@
   
 ### C Scripts
  - Allowed editors: `vi`, `vim`, `emacs`.
- - Compilation
+ - Compilation;
    - `Ubuntu 20.04 LTS using gcc`
    - using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
- - Coding Style
-   - **Betty style**, sing `betty-style.pl` and `betty-doc.pl`
+ - Coding Style;
+   - **Betty style**, using `betty-style.pl` and `betty-doc.pl`
  - No more than 5 functions per file.
  
 ## Credits
-> Collaborators are acknowledged within the repository.
+- [Oluwatomisin Isogun](https://github.com/TosinISOGUN)
+> Other collaborators are acknowledged within the repository.
