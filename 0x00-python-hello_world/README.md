@@ -25,7 +25,7 @@
 | [101-compile](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)	| Shell script that compiles a Python script file. |
 | [102-magic_calculation.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)	| Python function that replicates what a given Python bytecode does. |
 
-## Requirements & Environments
+## Requirements & Environment
 <img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
 
 ### Python Scripts
