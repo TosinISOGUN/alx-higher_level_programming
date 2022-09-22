@@ -28,16 +28,6 @@
 - A README.md file, at the root of the folder of this project, is mandatory
 - Coding Style;
   - Pycodestyle (version 2.8.*)
-  
-### C Scripts
- - Allowed editors: `vi`, `vim`, `emacs`.
- - Compilation;
-   - `Ubuntu 20.04 LTS using gcc`
-   - using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
- - Coding Style;
-   - **Betty style**, using `betty-style.pl` and `betty-doc.pl`
- - No more than 5 functions per file.
-
 
 ## Credits & Authors
 - [Oluwatomisin ISOGUN](https://github.com/TosinISOGUN)
