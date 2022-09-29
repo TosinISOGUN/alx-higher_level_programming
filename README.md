@@ -14,7 +14,7 @@ A **high-level** language is any programming language that enables development o
 A high-level language has a higher level of abstraction from the computer, and focuses more on the programming logic rather than the underlying hardware components such as memory addressing and register utilization.
 
 ## Description
-At ALX Holberton School, we learn by doing. We have projects everyday that we have to push on GitHub in order for an automatic review to be done. This repository contains directories each corresponding to a high-level language project. These projects are part of the ALX Holberton School 1 year curriculum. In these projects, we cover everything from the basics of `Python` and `Javascript` (`Node`), as well as `SQL` (with `MySQL`) to more advanced topics.
+At **ALX Holberton School**, we learn by doing. We have projects everyday that we have to push on GitHub in order for an automatic review to be done. This repository contains directories each corresponding to a high-level language project. These projects are part of the ALX Holberton School 1 year curriculum. In these projects, we cover everything from the basics of `Python` and `Javascript` (`Node`), as well as `SQL` (with `MySQL`) to more advanced topics.
 
 ## Table of Contents
 | **Directories** | **Description**|
