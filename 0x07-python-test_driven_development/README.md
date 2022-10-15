@@ -33,7 +33,7 @@ The unittest can be run with `python3 -m unittest tests.6-max_integer_test`.
 - Coding Style;
   - Pycodestyle (version 2.8.*)
 
-##  Python Test Cases
+###  Python Test Cases
 - Allowed editors: `vi`, `vim`, `emacs`.
 - All files should end with a new line.
 - All test files should be inside a folder tests.
