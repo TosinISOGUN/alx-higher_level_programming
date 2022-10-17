@@ -27,6 +27,7 @@ At **ALX Holberton School**, we learn by doing. We have projects everyday that w
 | [0x05-python-exceptions](https://github.com/ehoneahobed/alx-higher_level_programming/tree/main/0x05-python-exceptions) | 	Introduction to Python exceptions and error handling. |
 | [0x06-python-classes](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x06-python-classes) | Introduction to classes in Python. |
 | [0x07-python-test_driven_development](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x07-python-test_driven_development) | Introduction to unit tests, docstring tests in Python. |
+| [0x08-python-more_classes](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x08-python-more_classes/README.md) | Advanced classes in Python. |
 
 
 ## Credits & Authors
