@@ -24,10 +24,10 @@ At **ALX Holberton School**, we learn by doing. We have projects everyday that w
 | [0x02-python-import_modules](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x02-python-import_modules) | Introduction to Python modules. |
 | [0x03-python-data_structures](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x03-python-data_structures) | Introduction to Python data structures. |
 | [0x04-python-more_data_structures](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x04-python-more_data_structures) | Advanced data structures in Python. |
-| [0x05-python-exceptions](https://github.com/ehoneahobed/alx-higher_level_programming/tree/main/0x05-python-exceptions) | 	Introduction to Python exceptions and error handling. |
+| [0x05-python-exceptions](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x05-python-exceptions) | 	Introduction to Python exceptions and error handling. |
 | [0x06-python-classes](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x06-python-classes) | Introduction to classes in Python. |
 | [0x07-python-test_driven_development](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x07-python-test_driven_development) | Introduction to unit tests, docstring tests in Python. |
-| [0x08-python-more_classes](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x08-python-more_classes/README.md) | Advanced classes in Python. |
+| [0x08-python-more_classes](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x08-python-more_classes) | Advanced classes in Python. |
 
 
 ## Credits & Authors
