@@ -27,5 +27,5 @@
 - All files must be made executable.
 
 ## Authors & Credits
-- [Oluwatomisin ISOGUN](https://TosinISOGUN@github.com)
+- [Oluwatomisin ISOGUN](https://@github.com/TosinISOGUN)
 > Other collaborators are acknowledged within the repository.
