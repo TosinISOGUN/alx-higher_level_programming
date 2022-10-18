@@ -28,6 +28,7 @@ At **ALX Holberton School**, we learn by doing. We have projects everyday that w
 | [0x06-python-classes](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x06-python-classes) | Introduction to classes in Python. |
 | [0x07-python-test_driven_development](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x07-python-test_driven_development) | Introduction to unit tests, docstring tests in Python. |
 | [0x08-python-more_classes](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x08-python-more_classes) | Advanced classes in Python. |
+| [0x09-python-everything_is_object](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x09-python-everything_is_object) | Introduction to OOP in Python. |
 
 
 ## Credits & Authors
