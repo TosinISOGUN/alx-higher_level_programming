@@ -1,11 +1,22 @@
-# Python - Test-driven development
-<p align="center">
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif" width="600" height="250" />
-</p>
+# Python - Inheritance
 
 ## Table of Contents
-| **`Files`** | **`Description`**
-| 
+| **`Files`** | **`Description`** |
+| --- | --- |
+| 0-lookup.py	| Python function that returns the list of available attributes and methods of an object. |
+| 1-my_list.py	| Python class MyList that inherits from list. |
+| 2-is_same_class.py	| Python function that returns True if the object is exactly an instance of the specified class ; otherwise False. |
+| 3-is_kind_of_class.py	| Python function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False. |
+| 4-inherits_from.py	| Python function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False. |
+| 5-base_geometry.py	| Python empty class BaseGeometry |
+| 6-base_geometry.py	| Python class BaseGeometry (based on 5-base_geometry.py) |
+| 7-base_geometry.py	| Python class BaseGeometry (based on 6-base_geometry.py) |
+| 8-rectangle.py	| Python class Rectangle that inherits from BaseGeometry (7-base_geometry.py) |
+| 9-rectangle.py	| Python class Rectangle that inherits from BaseGeometry (7-base_geometry.py) (task based on 8-rectangle.py) |
+| 10-square.py	| Python class Square that inherits from Rectangle (9-rectangle.py) |
+| 11-square.py	| Python class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py) |
+| 100-my_int.py	| Python class MyInt that inherits from int. |
+| 101-add_attribute.py	| Python function that adds a new attribute to an object if it’s possible. |
 
 ## Requirements & Environment
 <img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
@@ -27,3 +38,4 @@
 
 ## Authors & Credits
 - [Oluwatomisin ISOGUN](https://github.com/TosinISOGUN)
+> Other collaborators are acknowledged within the project.
