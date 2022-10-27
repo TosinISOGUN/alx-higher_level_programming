@@ -31,7 +31,7 @@ At **ALX Holberton School**, we learn by doing. We have projects everyday that w
 | [0x09-python-everything_is_object](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x09-python-everything_is_object) | Introduction to OOP in Python. |
 | [0x0A-python-inheritance](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0A-python-inheritance) | More OOP and an Introduction to class in Python. |
 | [0x0B-python-input_output](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x0B-python-input_output) | Introduction to file input and output in Python. |
-
+| [0x0C-python-almost_a_circle](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0C-python-almost_a_circle) | Construction of classes with a base model, to practice inheritance in Python. |
 
 
 ## Credits & Authors
