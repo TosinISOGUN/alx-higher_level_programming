@@ -1,12 +1,14 @@
 # Python - Almost a circle
-<p align=center>
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4" width="" height="">
-</p>
 
 ## Table of Contents
 | Files | Description |
 | --- | --- |
-| 
+| [tests/](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0C-python-almost_a_circle/tests)	| Folder containing all the unittests for this project. |
+| [models/](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0C-python-almost_a_circle/models)	| Folder containing all the modules of this project. |
+| [models/base.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x0C-python-almost_a_circle/models/base.py)	| Class Base that will be the “base” of all other classes in this project. |
+| [models/__init__.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x0C-python-almost_a_circle/models/__init__.py)	| Empty file that makes the folder a Python module. |
+| [models/rectangle.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x0C-python-almost_a_circle/models/rectangle.py)	| Class Rectangle that inherits from Base. |
+| [models/square.py](https://github.com/TosinISOGUN/alx-higher_level_programming/blob/main/0x0C-python-almost_a_circle/models/square.py)	| Class Square that inherits from Rectangle. |
 
 
 ## Requirements & Environment
