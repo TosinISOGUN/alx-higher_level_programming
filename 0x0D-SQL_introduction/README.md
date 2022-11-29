@@ -51,3 +51,4 @@ This is an ALX Holberton School project and we are tasked with familiarizing our
 
 ## Authors & Credits
 - [Oluwatomisin Isogun](https://@github.com/TosinISOGUN)
+> Other collaborators (if there are any), will be acknowledged in the project repository.
