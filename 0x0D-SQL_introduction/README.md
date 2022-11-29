@@ -37,7 +37,7 @@ This is an ALX Holberton School project and we are tasked with familiarizing our
 | 103-max_state.sql | a script that displays the max temperature of each state (ordered by State name). |
 
 
-## Requirements and Environments
+## Requirements and Environment
 <img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
 
 - Allowed editors: `vi`, `vim`, `emacs`.
