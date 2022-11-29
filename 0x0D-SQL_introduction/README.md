@@ -1,6 +1,8 @@
 # SQL - Introduction
 
+<p align="center">
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg" width="" height="" />
+</p>
 
 ## Synopsis (SQL Overview)
 `SQL` is *Structured Query Language*, which is a computer language for storing, manipulating and retrieving data stored in a relational database.
@@ -13,8 +15,8 @@ This is an ALX Holberton School project and we are tasked with familiarizing our
 | Files | Description |
 | --- | --- |
 | 0-list_databases.sql | a script that lists all databases of your MySQL server. |
-| 1-create_database_if_missing.sql | a script that creates the database `hbtn_0c_0` in your MySQL server; If the database hbtn_0c_0 already exists, the script should not fail. |
-| 2-remove_database.sql | a script that deletes the database hbtn_0c_0 in your MySQL server; If the database hbtn_0c_0 doesn’t exist, the script should not fail. |
+| 1-create_database_if_missing.sql | a script that creates the database `hbtn_0c_0` in your MySQL server; If the database `hbtn_0c_0` already exists, the script should not fail. |
+| 2-remove_database.sql | a script that deletes the database `hbtn_0c_0` in your MySQL server; If the database `hbtn_0c_0` doesn’t exist, the script should not fail. |
 | 3-list_tables.sql | a script that lists all the tables of a database in your MySQL server; The database name will be passed as argument of `mysql` command (in the following example: `mysql` is the name of the database). |
 | 4-first_table.sql | a script that creates a table called `first_table` in the current database in your MySQL server; The database name will be passed as an argument of the `mysql` command. |
 | 5-full_table.sql | a script that prints the full description of the table `first_table` from the database `hbtn_0c_0` in your MySQL server; The database name will be passed as an argument of the mysql command and the use of the `DESCRIBE` or `EXPLAIN` statements are not allowed.
