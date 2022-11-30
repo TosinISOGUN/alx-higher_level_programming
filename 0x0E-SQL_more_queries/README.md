@@ -1,6 +1,6 @@
 # SQL - More queries tasks
 <p align="center">
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/66988091.jpg" width="" height="" />
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/66988091.jpg" width="500" height="400" />
 </p>
 
 ## Synopsis (SQL Overview)
