@@ -7,7 +7,7 @@
 `SQL` is *Structured Query Language*, which is a computer language for storing, manipulating and retrieving data stored in a relational database.
 
 ## Requirements and Environment
-<img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
+<img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" width="300" height="100" />
 
 - Allowed editors: `vi`, `vim`, `emacs`.
 - All files will be executed on `Ubuntu 20.04 LTS` using **MySQL 8.0** (version 8.0.25)
