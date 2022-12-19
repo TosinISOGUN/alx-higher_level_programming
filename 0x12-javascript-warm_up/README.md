@@ -13,7 +13,7 @@ This is an ALX project directory containing introductory tasks on `JavaScript`, 
 - All files should end with a new line.
 - A `README.md` file, at the root of the folder of the project, is mandatory.
 - The first line of all your files should be exactly `#!/usr/bin/node`.
-- Your code should be `semistandard` compliant (version 16.x.x). [Rules of Standard](https://alx-intranet.hbtn.io/rltoken/1T1yg1vOAChRN20Yyz8crw) + [semicolons on top](https://alx-intranet.hbtn.io/rltoken/35q5Pc6A6KWPyd3kGeRQFg). Also as reference: [AirBnB style](https://alx-intranet.hbtn.io/rltoken/ilo9MmB3u0utJZjZat-W3Q)
+- All codes should be `semistandard` compliant (version 16.x.x). [Rules of Standard](https://alx-intranet.hbtn.io/rltoken/1T1yg1vOAChRN20Yyz8crw) + [semicolons on top](https://alx-intranet.hbtn.io/rltoken/35q5Pc6A6KWPyd3kGeRQFg). Also as reference: [AirBnB style](https://alx-intranet.hbtn.io/rltoken/ilo9MmB3u0utJZjZat-W3Q)
 - All files must be executable.
 - The length of files will be tested using `wc`.
 
