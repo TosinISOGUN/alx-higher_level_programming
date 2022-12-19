@@ -34,7 +34,7 @@ At **ALX Holberton School**, we learn by doing. We have projects everyday that w
 | [0x0C-python-almost_a_circle](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0C-python-almost_a_circle) | Construction of classes with a base model, to practice inheritance in Python. |
 | [0x0D-SQL_introduction](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0D-SQL_introduction) | Introduction to SQL. |
 | [0x0E-SQL_more_queries](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries) | Advanced classes in SQL. |
-| [0x0F-python-object_relational_mapping](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0F-python-object_relational_mapping) | Introductin to ORM(s) |
+| [0x0F-python-object_relational_mapping](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x0F-python-object_relational_mapping) | Introduction to ORM(s). |
 | [0x12-javascript-warm_up](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x12-javascript-warm_up) | Introduction to JavaScript. |
 
 
