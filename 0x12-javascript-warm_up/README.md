@@ -1,4 +1,5 @@
 # JavaScript - Warm up
+This is an ALX project directory containing introductory tasks to `JavaScript`, the files therein are solutions to tasks that serves as "warm up".
 
 <p align="center">
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/303/Javascript-535.png.jpeg" width="500" height="400" />
